@@ -1,4 +1,4 @@
-# Python Flask Web App  
+# Title (Name of App) 
 ## Introduction - the project's aim  
 About the purpose and implementation of the project ...
 
@@ -26,6 +26,7 @@ The project is in the beginning/prototyping stage ...
     Install Python  
     Install pip  
     install virtual environment  
+
 ##### Presentation Level     
 *configuring project tether to OS in vm or container and os/env varilables* 
 ###### example
